@@ -1,0 +1,8 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "把文章或 Markdown/TXT 文件提炼成 5-8 张单知识点卡片，含标题、核心知识、解释与例子或自测题"
+  default_prompt: "使用 $make-knowledge-cards 把下面这篇文章转换成知识卡片："
+  brand_color: "#2F6F4E"
+
+policy:
+  allow_implicit_invocation: true

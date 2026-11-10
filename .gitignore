@@ -1,0 +1,19 @@
+# 工作区数据与内部记忆（含开发日志，不对外公开）
+.workbuddy/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# 临时与构建产物
+*.log
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+dist/
